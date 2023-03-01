@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b07d2c14af9f7d5498aef26d5b48fcc8, type: 3}
+  m_Name: UIInfor
+  m_EditorClassIdentifier: 
+  m_HorizontalInfor:
+  - m_Name: UI_1_Horizontal
+    m_UpInfor: {x: 229, y: -153}
+    m_DownInfor: {x: 400, y: 200}
+    m_AnchorInfor:
+      m_Min: {x: 0, y: 1}
+      m_Max: {x: 0, y: 1}
+  - m_Name: UI_2_Horizontal
+    m_UpInfor: {x: 0, y: 270}
+    m_DownInfor: {x: 0, y: 273.3}
+    m_AnchorInfor:
+      m_Min: {x: 0, y: 0}
+      m_Max: {x: 1, y: 0}
+  m_VerticalInfor:
+  - m_Name: UI_1_Vertical
+    m_UpInfor: {x: 371, y: -276}
+    m_DownInfor: {x: 600, y: 400}
+    m_AnchorInfor:
+      m_Min: {x: 0, y: 1}
+      m_Max: {x: 0, y: 1}
+  - m_Name: UI_2_Vertical
+    m_UpInfor: {x: 0, y: 800}
+    m_DownInfor: {x: 0, y: 400}
+    m_AnchorInfor:
+      m_Min: {x: 0, y: 0}
+      m_Max: {x: 1, y: 0}
